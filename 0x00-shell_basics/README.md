@@ -1,1 +1,1 @@
-Create a symbolic link to
+ symbiont link
